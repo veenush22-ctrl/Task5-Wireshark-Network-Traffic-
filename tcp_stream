@@ -1,0 +1,24 @@
+GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H%2Fz9DKA%3D HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/10.0
+Host: ocsp.digicert.com
+
+
+HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Content-Length: 471
+Cache-Control: max-age=868
+Expires: Mon, 11 Aug 2025 07:14:27 GMT
+Date: Mon, 11 Aug 2025 06:59:59 GMT
+Connection: keep-alive
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Akamai-GRN: 0.1fd62c17.1754895599.9406c191
+Server-Timing: ak_p; desc="1754895599876_388814367_2483470737_11_851_200_0_-";dur=1
+
+0...
+......0....	+.....0......0...0........P5V.L.f........=.U..20250809182738Z0s0q0I0	..+.........Q..2...}Q......b.U.....P5V.L.f........=.U...t.....!............20250809182738Z....20250816182738Z0
+.	*.H..
+...........t....M.|.....E...$X......\^..l?.6HY.G<R..........L......%.i...h=.$........|.C.>...?..Zzz..:.~f.8...{......%o=)e.....d_.&...Z....T.1......JG..d....-@..&..o........UroH..rpE........w...G.9'....JI....[G
+.<..D..F..n.sX...).7..G..m...".\.6. .(^..LmK.2.V.?.+yx.
